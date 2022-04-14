@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/monsters-blox/static/css/main.35727506.css",
+    "main.js": "/monsters-blox/static/js/main.19351410.js",
+    "static/css/961.2faac2a0.chunk.css": "/monsters-blox/static/css/961.2faac2a0.chunk.css",
+    "static/js/961.5f57b5bf.chunk.js": "/monsters-blox/static/js/961.5f57b5bf.chunk.js",
+    "static/css/573.12654728.chunk.css": "/monsters-blox/static/css/573.12654728.chunk.css",
+    "static/js/573.320684b1.chunk.js": "/monsters-blox/static/js/573.320684b1.chunk.js",
+    "index.html": "/monsters-blox/index.html",
+    "main.35727506.css.map": "/monsters-blox/static/css/main.35727506.css.map",
+    "main.19351410.js.map": "/monsters-blox/static/js/main.19351410.js.map",
+    "961.2faac2a0.chunk.css.map": "/monsters-blox/static/css/961.2faac2a0.chunk.css.map",
+    "961.5f57b5bf.chunk.js.map": "/monsters-blox/static/js/961.5f57b5bf.chunk.js.map",
+    "573.12654728.chunk.css.map": "/monsters-blox/static/css/573.12654728.chunk.css.map",
+    "573.320684b1.chunk.js.map": "/monsters-blox/static/js/573.320684b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35727506.css",
+    "static/js/main.19351410.js"
+  ]
+}
